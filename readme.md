@@ -10,4 +10,4 @@ Deployed with Netlify at https://oinkoink.netlify.com/
 - The first player to reach 100 points on GLOBAL score wins the game
 
 -----
-Built with JavaScript by [Amanda Gibson](github.com/amandagibson)
+Built with JavaScript by [Amanda Gibson](https://github.com/amandagibson)
